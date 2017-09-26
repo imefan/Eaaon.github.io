@@ -93,10 +93,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
+   {
         title: "简书·BY",
         href: "http://www.jianshu.com/users/86b103b1c3d8/timeline"
     },{
